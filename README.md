@@ -1,5 +1,5 @@
 # CarPricePredictorr
-This application is made up for predicting the prizes of Second Hand Car 
+This application is made up for predicting the prizes of Second Hand Car <br/>
 How to use -
   step1 : Click on below link.
   step2 : link - https://secondhandcarpricepredictor.herokuapp.com/
